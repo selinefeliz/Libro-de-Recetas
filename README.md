@@ -7,7 +7,12 @@ entre pasos). El programa contará con una interfaz gráfica amigable para facil
 usuario, y los datos serán gestionados mediante una base de datos. 
 3. Requerimientos Funcionales 
 Funcionalidades Principales: 
-1. Insertar Recetas - Permitir al usuario agregar una nueva receta con los siguientes datos: - Nombre de la receta. - Complejidad (baja, media, alta). - Número de pasos. - Detalles de cada paso (descripción de las acciones a realizar en cada paso). - Tiempo total de preparación (dividido entre los pasos). 
+1. Insertar Recetas - Permitir al usuario agregar una nueva receta con los siguientes datos:
+ - Nombre de la receta.
+  - Complejidad (baja, media, alta). 
+  - Número de pasos. 
+  - Detalles de cada paso (descripción de las acciones a realizar en cada paso). 
+  - Tiempo total de preparación (dividido entre los pasos). 
 2. Mostrar Recetas en Orden de Complejidad - Mostrar una lista de todas las recetas ordenadas por su nivel de complejidad (baja, media, alta). - Mostrar la receta con su nombre y tiempo de preparación total. 
 3. Mostrar Detalles de una Receta - Permitir al usuario seleccionar una receta y ver sus detalles completos: - Nombre de la receta. - Complejidad. - Número de pasos. - Descripción de los pasos (incluyendo el tiempo asignado a cada uno). - Tiempo total de preparación. 
 4. Eliminar una Receta - Permitir al usuario seleccionar una receta de la lista y eliminarla del sistema. 
